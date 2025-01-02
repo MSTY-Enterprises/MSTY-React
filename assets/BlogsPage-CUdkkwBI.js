@@ -1,0 +1,1 @@
+import{j as r}from"./index-Ce69QYns.js";import{B as o}from"./Blogs-CYT3MIXg.js";import{B as s}from"./Banner-Dg8PLvg5.js";import"./index-CErskrEo.js";import"./iconBase-CmiIeSh5.js";import"./blog1-C7WUiAVv.js";const n=()=>r.jsxs(r.Fragment,{children:[r.jsx(s,{}),r.jsx(o,{}),"  "]});export{n as default};
